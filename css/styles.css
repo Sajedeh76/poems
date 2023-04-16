@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #041C32;
+}
+
+img{
+   margin-left: 100px ; 
+   margin-top:50px ;
+   height: 200px;
+   width: 200px;
+}
+
+.navbardiv{
+   background-color: #04293A;
+}
+
+.top{
+    color:#ECB365;
+    background-color: #041C32;
+    /* height: 450px; */
+    font-family: 'Dancing Script', cursive;
+}
+
+.middle{
+    background-color: #ECB365;
+
+}
+
+.bottom{
+    background-color: #041C32;
+    height: 100px;
+}
+
+.virginia{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 3em;
+}
+
+.virginia-name{
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+p{
+    padding: 60px 40px 40px 40px;
+    text-align: center;
+}
